@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.text {
+    position: relative;
+    width: 100%;
+    text-align: center;
+    font-family: sans-serif;
+    z-index: 100;
+}
+
+img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: auto;
+    max-height: 100vh;
+    object-fit: contain;
+}
