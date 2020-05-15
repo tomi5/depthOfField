@@ -1,3 +1,10 @@
-﻿# depthOfField
+﻿
+# Depth of Field Effect
 
-training with depth of field effect
+##  training project with depth of field effect
+
+###### Tech Work used:
+- JavaScript
+- HTML5
+- pure CSS3
+
